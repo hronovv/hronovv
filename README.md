@@ -2,7 +2,7 @@
 
 **`Backend developer && life enjoyer`**
 
-Hi there! I’m a young, visionary, and collaborative backend developer from Belarus.
+Hi there! I’m a young, purpose-driven, and collaborative backend developer from Belarus.
 
 ### Languages:
 
@@ -17,3 +17,12 @@ Hi there! I’m a young, visionary, and collaborative backend developer from Bel
 <img align="left" width = "30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg"/>
 <img align="left" width = "30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg"/>
 <img align="left" width = "30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"/>
+<br />
+
+#### Tools I use on a daily basis
+
+<img align="left" width = "30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg"/>
+<img align="left" width = "30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg"/>
+<img align="left" width = "30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
+<img align="left" width = "30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg"/>
+<br />
