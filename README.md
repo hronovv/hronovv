@@ -2,7 +2,7 @@
 
 **`Backend developer && life enjoyer`**
 
-Hi there! I'm young, firm yet collaborative backend developer from Belarus. 
+Hi there! I’m a young, visionary, and collaborative backend developer from Belarus.
 
 ### Languages:
 
