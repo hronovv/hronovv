@@ -25,11 +25,12 @@ Currently looking for a **backend internship / junior backend role**
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="45" height="45"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="45" height="45"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="45" height="45"/>
   <!-- Assembly (8086) has no official devicon, kept as text -->
 </p>
 
-- **Priority**: Go → C++ (STL) → Python → C# → Assembly (Intel 8086)
+- **Priority**: Go → C++ (STL) → Python → JavaScript → C# → Assembly (Intel 8086)
 
 #### Backend & data
 
