@@ -78,14 +78,6 @@ Currently looking for a **backend internship / junior backend role**
 
 ---
 
-### What I'm looking for
-
-- **Position**: Backend intern / Junior backend developer  
-- **Stack preference**: Go (priority), C++, Python  
-- **Format**: Remote (from Belarus)
-
----
-
 ### Contacts
 
 - **Email**: `ivanonlane@gmail.com`  
