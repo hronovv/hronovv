@@ -1,6 +1,6 @@
 ## Hi, I'm Ivan Bazan
 
-**Backend developer & life enjoyer**
+**Go Backend developer & life enjoyer**
 
 I'm a purpose-driven Go backend developer from Belarus, focused on building reliable and clear backend systems.  
 Currently looking for a **backend internship / junior backend role**
@@ -29,8 +29,6 @@ Currently looking for a **backend internship / junior backend role**
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="45" height="45"/>
   <!-- Assembly (8086) has no official devicon, kept as text -->
 </p>
-
-- **Priority**: Go → C++ (STL) → Python → JavaScript → C# → Assembly (Intel 8086)
 
 #### Backend & data
 
