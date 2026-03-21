@@ -80,4 +80,4 @@ Currently looking for a **backend internship / junior backend role**
 
 - **Email**: `ivanonlane@gmail.com`  
 - **Telegram**: `@bazan_ivan`
-- [**Resume**]:(resume.pdf)
+- [**Resume**]:(resume_eng.pdf)
