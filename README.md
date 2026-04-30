@@ -1,16 +1,13 @@
 ## Hi, I'm Ivan Bazan
-
-**Go Backend developer & life enjoyer**
-
-I'm a purpose-driven Go backend developer from Belarus, focused on building reliable and clear backend systems.  
-Currently looking for a **backend internship / junior backend role**
+Go backend developer from Belarus. Building reliable backend systems in Go.
+Currently looking for a backend internship / junior backend role.
 
 ---
 
 ### About me
 
 - **Main focus**: backend development with Go and/or C++
-- **Domains**: web APIs, financial and utility applications, desktop tools with Qt
+- **Domains**: backend development in Go, building REST APIs, designing reliable services, and working with databases
 - **Work style**: clean, simple solutions, clear data models, and explicit error handling
 - **Location**: Belarus, open to **remote** opportunities  
 - **Languages**: English(B2), Russian(Native), Belarusian(Native)
@@ -21,46 +18,35 @@ Currently looking for a **backend internship / junior backend role**
 
 #### Languages
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="45" height="45"/>
-  <!-- Assembly (8086) has no official devicon, kept as text -->
-</p>
+![Go](https://img.shields.io/badge/-Go-%2300ADD8?style=flat-square&logo=go&logoColor=ffffff)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=ffffff)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000)
+![C%23](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=ffffff)
 
 #### Backend & data
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="45" height="45"/>&nbsp;
-</p>
-
-- **Databases**: PostgreSQL, SQLite  
-- **APIs**: HTTP/REST, JSON, typical CRUD and business endpoints
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23336791?style=flat-square&logo=postgresql&logoColor=ffffff)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=ffffff)
+![REST API](https://img.shields.io/badge/-REST%20API-4A5568?style=flat-square&logo=fastapi&logoColor=ffffff)
 
 #### Tools & ecosystem
 
 <!-- Tools -->
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" title="Qt" alt="Qt" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" title="CMake" alt="CMake" width="45" height="45"/>
+  <img src="https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=docker&logoColor=ffffff" title="Docker" alt="Docker"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=ffffff" title="Git" alt="Git"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Qt-%2341CD52?style=flat-square&logo=qt&logoColor=ffffff" title="Qt" alt="Qt"/>&nbsp;
+  <img src="https://img.shields.io/badge/-CMake-%23064F8C?style=flat-square&logo=cmake&logoColor=ffffff" title="CMake" alt="CMake"/>
 </p>
 <!-- IDEs -->
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/goland/goland-original.svg" title="GoLand" alt="GoLand" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" title="CLion" alt="CLion" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg" title="Rider" alt="Rider" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="45" height="45"/>
+  <img src="https://img.shields.io/badge/-GoLand-000000?style=flat-square&logo=goland&logoColor=00ACC1" title="GoLand" alt="GoLand"/>&nbsp;
+  <img src="https://img.shields.io/badge/-CLion-000000?style=flat-square&logo=clion&logoColor=14C8FF" title="CLion" alt="CLion"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Rider-000000?style=flat-square&logo=rider&logoColor=FD345F" title="Rider" alt="Rider"/>&nbsp;
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=ffffff" title="VS Code" alt="VS Code"/>&nbsp;
+  <img src="https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=21D789" title="PyCharm" alt="PyCharm"/>
 </p>
-
-- **Containers**: Docker, Docker Compose  
-- **Desktop**: Qt (C++), CMake  
-- **VCS**: Git
 
 ---
 
