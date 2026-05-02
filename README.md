@@ -30,6 +30,7 @@ Currently looking for a backend internship / junior backend role.
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=ffffff)
 ![REST API](https://img.shields.io/badge/-REST%20API-6BA539?style=flat-square&logo=openapiinitiative&logoColor=ffffff)
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=ffffff)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=ffffff)
 
 
 #### Tools & ecosystem
