@@ -21,14 +21,16 @@ Currently looking for a backend internship / junior backend role.
 ![Go](https://img.shields.io/badge/-Go-%2300ADD8?style=flat-square&logo=go&logoColor=ffffff)
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000)
-![C%23](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
+![C#](https://img.shields.io/badge/-C%23-68217A?style=flat-square&logo=csharp&logoColor=ffffff)
 
 #### Backend & data
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23336791?style=flat-square&logo=postgresql&logoColor=ffffff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=ffffff)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=ffffff)
-![REST API](https://img.shields.io/badge/-REST%20API-4A5568?style=flat-square&logo=fastapi&logoColor=ffffff)
+![REST API](https://img.shields.io/badge/-REST%20API-6BA539?style=flat-square&logo=openapiinitiative&logoColor=ffffff)
+![JSON](https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=ffffff)
+
 
 #### Tools & ecosystem
 
