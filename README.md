@@ -7,7 +7,7 @@ Currently looking for a backend internship / junior backend role.
 ### About me
 
 - **Main focus**: backend development with Go and/or C++
-- **Domains**: backend development in Go, building REST APIs, designing reliable services, and working with databases
+- **Domains**: backend development in Go, REST APIs, PostgreSQL/Redis, session-based auth, and Docker-based deployments
 - **Work style**: clean, simple solutions, clear data models, and explicit error handling
 - **Location**: Belarus, open to **remote** opportunities  
 - **Languages**: English(B2), Russian(Native), Belarusian(Native)
@@ -22,22 +22,30 @@ Currently looking for a backend internship / junior backend role.
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff)
 ![C#](https://img.shields.io/badge/-C%23-68217A?style=flat-square&logo=csharp&logoColor=ffffff)
 
 #### Backend & data
 
+![Go](https://img.shields.io/badge/-Gin-%2300ADD8?style=flat-square&logo=go&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=ffffff)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=ffffff)
 ![REST API](https://img.shields.io/badge/-REST%20API-6BA539?style=flat-square&logo=openapiinitiative&logoColor=ffffff)
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=ffffff)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=ffffff)
 
+#### Frontend
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000000)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=ffffff)
 
 #### Tools & ecosystem
 
 <!-- Tools -->
 <p align="left">
   <img src="https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=docker&logoColor=ffffff" title="Docker" alt="Docker"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Docker%20Compose-%232496ED?style=flat-square&logo=docker&logoColor=ffffff" title="Docker Compose" alt="Docker Compose"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Nginx-%23009639?style=flat-square&logo=nginx&logoColor=ffffff" title="Nginx" alt="Nginx"/>&nbsp;
   <img src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=ffffff" title="Git" alt="Git"/>&nbsp;
   <img src="https://img.shields.io/badge/-Qt-%2341CD52?style=flat-square&logo=qt&logoColor=ffffff" title="Qt" alt="Qt"/>&nbsp;
   <img src="https://img.shields.io/badge/-CMake-%23064F8C?style=flat-square&logo=cmake&logoColor=ffffff" title="CMake" alt="CMake"/>
@@ -55,9 +63,13 @@ Currently looking for a backend internship / junior backend role.
 
 ### Selected projects
 
+- **Pulse — Electronic Medical Record (Go, Gin, PostgreSQL, Redis, Docker)**  
+  Full-stack EMR platform: REST API, RBAC (patient / doctor / admin), medical cards, ICD catalog, appointment workflow, Redis sessions, SQL migrations, Docker Compose. React + TypeScript SPA.  
+  _Repo_: [medical-card](https://github.com/hronovv/medical-card)
+
 - **Financial System (Go, PostgreSQL, Docker)**  
   Backend for a financial system with REST APIs and database persistence.  
- _Repo_: [Financial System](https://github.com/hronovv/Financial-System)
+  _Repo_: [Financial System](https://github.com/hronovv/Financial-System)
 
 - **Keyboard Trainer (C++ / Qt)**  
   Desktop keyboard training application with a GUI, focused on usability and speed.  
