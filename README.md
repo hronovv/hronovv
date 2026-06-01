@@ -28,6 +28,7 @@ Currently looking for a backend internship / junior backend role.
 #### Backend & data
 
 ![Go](https://img.shields.io/badge/-Gin-%2300ADD8?style=flat-square&logo=go&logoColor=ffffff)
+![templ](https://img.shields.io/badge/-templ-%23777644?style=flat-square&logo=go&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=ffffff)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=ffffff)
 ![REST API](https://img.shields.io/badge/-REST%20API-6BA539?style=flat-square&logo=openapiinitiative&logoColor=ffffff)
@@ -38,6 +39,7 @@ Currently looking for a backend internship / junior backend role.
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000000)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=ffffff)
+![HTMX](https://img.shields.io/badge/-HTMX-3366CC?style=flat-square&logo=htmx&logoColor=ffffff)
 
 #### Tools & ecosystem
 
