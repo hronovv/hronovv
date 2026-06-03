@@ -6,7 +6,7 @@ Currently looking for a backend internship / junior backend role.
 
 ### About me
 
-- **Main focus**: backend development with Go and/or C++
+- **Main focus**: backend development with Go 
 - **Domains**: backend development in Go, REST APIs, PostgreSQL/Redis, session-based auth, and Docker-based deployments
 - **Work style**: clean, simple solutions, clear data models, and explicit error handling
 - **Location**: Belarus, open to **remote** opportunities  
