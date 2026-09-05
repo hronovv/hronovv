@@ -65,6 +65,10 @@ Currently looking for a backend internship / junior backend role.
 
 ### Selected projects
 
+- **FlatStalker (Go, Gin, PostgreSQL, Telegram Bot API)**  
+  Rental-watch service: polls Kufar.by search URLs, sends new ads to Telegram, Mini App cabinet, paid plans with invoices, per-plan worker intervals, and seen-ad tracking.  
+  _Repo_: [FlatStalker](https://github.com/hronovv/FlatStalker)
+
 - **Pulse — Electronic Medical Record (Go, Gin, PostgreSQL, Redis, Docker)**  
   Full-stack EMR platform: REST API, RBAC (patient / doctor / admin), medical cards, ICD catalog, appointment workflow, Redis sessions, SQL migrations, Docker Compose. React + TypeScript SPA.  
   _Repo_: [medical-card](https://github.com/hronovv/medical-card)
@@ -72,10 +76,6 @@ Currently looking for a backend internship / junior backend role.
 - **Financial System (Go, PostgreSQL, Docker)**  
   Backend for a financial system with REST APIs and database persistence.  
   _Repo_: [Financial System](https://github.com/hronovv/Financial-System)
-
-- **Keyboard Trainer (C++ / Qt)**  
-  Desktop keyboard training application with a GUI, focused on usability and speed.  
-  _Repo_: [Keyboard Trainer](https://github.com/hronovv/Keyboard-Trainer)
 
 ---
 
