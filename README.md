@@ -35,6 +35,7 @@ Currently looking for a backend internship / junior backend role.
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=ffffff)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=ffffff)
 
+
 #### Frontend
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000000)
@@ -51,6 +52,7 @@ Currently looking for a backend internship / junior backend role.
   <img src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=ffffff" title="Git" alt="Git"/>&nbsp;
   <img src="https://img.shields.io/badge/-Qt-%2341CD52?style=flat-square&logo=qt&logoColor=ffffff" title="Qt" alt="Qt"/>&nbsp;
   <img src="https://img.shields.io/badge/-CMake-%23064F8C?style=flat-square&logo=cmake&logoColor=ffffff" title="CMake" alt="CMake"/>
+  <img src="https://img.shields.io/badge/-Air-%23FF5E00?style=flat-square&logo=air&logoColor=ffffff" title="Air" alt="Air"/>
 </p>
 <!-- IDEs -->
 <p align="left">
