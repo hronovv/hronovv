@@ -53,6 +53,7 @@ Currently looking for a backend internship / junior backend role.
   <img src="https://img.shields.io/badge/-Qt-%2341CD52?style=flat-square&logo=qt&logoColor=ffffff" title="Qt" alt="Qt"/>&nbsp;
   <img src="https://img.shields.io/badge/-CMake-%23064F8C?style=flat-square&logo=cmake&logoColor=ffffff" title="CMake" alt="CMake"/>
   <img src="https://img.shields.io/badge/-Air-%23FF5E00?style=flat-square&logo=air&logoColor=ffffff" title="Air" alt="Air"/>
+  <img src="https://img.shields.io/badge/-Grafana%20k6-%237D64FF?style=flat-square&logo=k6&logoColor=ffffff" title="Grafana k6" alt="Grafana k6"/>
 </p>
 <!-- IDEs -->
 <p align="left">
